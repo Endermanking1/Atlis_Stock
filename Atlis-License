@@ -18,13 +18,13 @@ to use, copy, modify, and merge, subject to the following conditions:
    and the list of conditions in any copies or substantial portions of the 
    Software.
 
-3. **Derivative Works & Transparency**: If you create derivative works, you must 
-   clearly indicate that modifications have been made and provide public access 
-   or notice of what has been changed.
+3. **Derivative Works & Transparency**: If you create derivative works or run a modified 
+   instance of this Software, you must clearly indicate that modifications have been 
+   made and provide public access or a link to the modified source code.
 
 4. **No Claiming Ownership**: You may not claim ownership of this Software or 
    present it as your own original work. You must visibly acknowledge the original 
-   creator in any distributions, bot bio/about sections, or documentation.
+   creator (Endermanking1) in any distributions, bot bio/about sections, or documentation.
 
 5. **No Commercial AI Ingestion**: This Software may not be scraped, ingested, 
    or processed for the purpose of training commercial machine learning or 
@@ -44,18 +44,28 @@ to use, copy, modify, and merge, subject to the following conditions:
    or modifying this code to contain malware, token loggers, phishing scripts, 
    unauthorized auto-messaging/spam tools, or self-bot capabilities.
 
-9. **No Warranty**: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY 
-   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
-   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+9. **Trademark & Branding Protection**: This License does not grant permission to 
+   use the trade names, logos, or project names of the copyright holder ("Atlis", 
+   "Atlis Stock", "Atlis Studios") to endorse, promote, or misrepresent derivative works 
+   as official releases.
 
-10. **Liability**: IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE 
-    FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
-    TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE 
-    OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+10. **Automatic Termination for Breach**: Any violation of the terms or conditions 
+    of this License automatically revokes all permissions and rights granted to 
+    you. Upon termination, you must immediately cease all use, hosting, and 
+    distribution of the Software.
 
 11. **Personal Use & Community Hosting**: You are permitted to run this Software on 
     your own hardware or private servers for personal, educational, and non-commercial 
     community use, provided all attribution requirements are met.
+
+12. **No Warranty**: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY 
+    KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+13. **Liability**: IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE 
+    FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+    TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE 
+    OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## For Commercial Use & Licensing:
 
