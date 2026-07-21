@@ -9,41 +9,57 @@ to use, copy, modify, and merge, subject to the following conditions:
 
 ## Conditions:
 
-1. **Non-Commercial Use**: You may not sell, resell, lease, or distribute this 
-   Software or any derivative works for commercial profit without explicit 
-   written permission from the copyright holder.
+1. **Non-Commercial & Non-Hosted Use**: You may not sell, resell, lease, sublicense, 
+   or distribute this Software. Furthermore, you may not offer this Software as a 
+   paid hosted service, managed Discord bot service, or commercial API endpoint 
+   without explicit written permission from the copyright holder.
 
 2. **Attribution**: You must retain the above copyright notice, this license, 
    and the list of conditions in any copies or substantial portions of the 
    Software.
 
-3. **Derivative Works**: If you create derivative works, you must clearly 
-   indicate that modifications have been made and provide notice of what has 
-   been changed.
+3. **Derivative Works & Transparency**: If you create derivative works, you must 
+   clearly indicate that modifications have been made and provide public access 
+   or notice of what has been changed.
 
 4. **No Claiming Ownership**: You may not claim ownership of this Software or 
-   present it as your own original work. You must acknowledge the original 
-   creator in any distributions or usage.
+   present it as your own original work. You must visibly acknowledge the original 
+   creator in any distributions, bot bio/about sections, or documentation.
 
-5. **No Warranty**: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY 
+5. **No Commercial AI Ingestion**: This Software may not be scraped, ingested, 
+   or processed for the purpose of training commercial machine learning or 
+   artificial intelligence models without explicit written consent.
+
+6. **Compliance with Discord Terms & Public Laws**: You must use this Software in 
+   full compliance with Discord’s Terms of Service, Developer Terms of Service, and 
+   Community Guidelines, as well as all applicable local, national, and international 
+   laws.
+
+7. **No Data Harvesting or Surveillance**: You may not modify, distribute, or run 
+   this Software for the purpose of scraping, harvesting, logging, selling, or 
+   storing unauthorized user data, message logs, IP addresses, or personal identifiers, 
+   nor may you use this Software as a surveillance or tracking tool.
+
+8. **No Malicious Functionality**: You are strictly prohibited from adding, injecting, 
+   or modifying this code to contain malware, token loggers, phishing scripts, 
+   unauthorized auto-messaging/spam tools, or self-bot capabilities.
+
+9. **No Warranty**: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY 
    KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
-6. **Liability**: IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE 
-   FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
-   TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE 
-   OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+10. **Liability**: IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE 
+    FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+    TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE 
+    OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-7. **Personal Use & Learning**: You are permitted to use this Software for 
-   personal projects, educational purposes, and non-commercial open-source 
-   contributions, provided all attribution requirements are met.
+11. **Personal Use & Community Hosting**: You are permitted to run this Software on 
+    your own hardware or private servers for personal, educational, and non-commercial 
+    community use, provided all attribution requirements are met.
 
-## For Commercial Use:
+## For Commercial Use & Licensing:
 
-If you wish to use this Software commercially, you must obtain explicit written 
-permission from the copyright holder. Please contact for licensing inquiries.
+If you wish to use this Software commercially or host it as a commercial service, 
+you must obtain explicit written permission from the copyright holder. 
 
----
-
-This license is a modified version of the MIT License with added restrictions 
-against commercial use and claiming ownership.
+Please contact: **https://discord.gg/ZDHZSFyyKV**
