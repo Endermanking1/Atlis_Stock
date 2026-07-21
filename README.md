@@ -8,12 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Endermanking1/Atlis_Stock/main/assets/logo.png">
-    <img src="https://raw.githubusercontent.com/Endermanking1/Atlis_Stock/main/assets/logo.png" alt="Atlis Stock Logo" width="400">
-  </a>
-</p>
-
-<p align="center">
   <em>Automated real-time in-game stock tracking for Discord.</em>
 </p>
 
