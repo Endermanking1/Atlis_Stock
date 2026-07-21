@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/yourusername/atlis-stocks/blob/main/assets/Atlis%20Stock-Photoroom.png?raw=true" alt="Atlis Stocks Banner" width="700">
-</p>
-
 <h1 align="center">Atlis Stocks</h1>
 
 <p align="center">
@@ -29,11 +25,10 @@ This project automatically gathers live in-game market stock and inventory data 
 
 ## How to set up
 
-- Clone the repository: `git clone <repository-url>`
+- Clone the repository: `git clone https://github.com/Endermanking1/Atlis_Stock/`
 - Navigate into the project directory: `cd atlis-stocks`
 - Install all required dependencies: `npm install discord.js puppeteer`
 - Configure the environment: Create a `.env` file in the project root containing your `DISCORD_TOKEN`, `CLIENT_ID`, and target Traderie URLs.
-- Register the slash commands: `node deploy-commands.js`
 - Start the application: `node index.js`
 
 ## Project Components
@@ -45,10 +40,10 @@ This project automatically gathers live in-game market stock and inventory data 
 
 | Command | Description | Permissions |
 |---------|-------------|-------------|
-| `/auto-ping-setup game` | Automatically match server roles or create them if missing for the specific game catalog. | `@everyone` |
-| `/check-now` | Force an immediate diagnostic update loop check. | Admin only |
-| `/ping-setup game: item: role:` | Assign a specific role to be pinged when an item appears in stock. | `@everyone` |
-| `/setup game: channel:` | Auto create tracking webhook link for a specific game within a selected text channel. | `@everyone` |
+| `/auto-ping-setup game` | Automatically match server roles or create them if missing for the specific game catalog. | `@Admin` |
+| `/check-now` | Force an immediate diagnostic update loop check. | `@Admin` |
+| `/ping-setup game: item: role:` | Assign a specific role to be pinged when an item appears in stock. | `@Admin` |
+| `/setup game: channel:` | Auto create tracking webhook link for a specific game within a selected text channel. | `@Admin` |
 | `/stock game:` | Force display of current cached stock levels or a live fallback layout. | `@everyone` |
 
 ## License
