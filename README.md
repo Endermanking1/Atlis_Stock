@@ -48,4 +48,4 @@ This project automatically gathers live in-game market stock and inventory data 
 
 ## License
 
-This project is licensed under the [Atlis License](LICENSE).
+This project is licensed under the [Atlis License](Atlis-License).
