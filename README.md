@@ -4,7 +4,7 @@
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-≥18.0.0-339933?logo=nodedotjs&logoColor=white" alt="Node.js"></a>
   <a href="https://discord.js.org/"><img src="https://img.shields.io/badge/Discord.js-v14-5865F2?logo=discord&logoColor=white" alt="Discord.js"></a>
   <a href="https://pptr.dev/"><img src="https://img.shields.io/badge/Puppeteer-Latest-40B5A4?logo=puppeteer&logoColor=white" alt="Puppeteer"></a>
-  <a href="LICENSE"><img src="https://gist.githubusercontent.com/Endermanking1/fc773f9d6dd10a7d981e00996773960d/raw/2a35a338b19649cc1b53159a597e5c7a96310146/license-badge.svg" alt="Atlis-License"></a>
+  <a href="Atlis-License"><img src="https://gist.githubusercontent.com/Endermanking1/fc773f9d6dd10a7d981e00996773960d/raw/2a35a338b19649cc1b53159a597e5c7a96310146/license-badge.svg" alt="Atlis-License"></a>
 </p>
 
 <p align="center">
