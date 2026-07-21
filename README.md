@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <em>Automated real-time market stock tracking for Discord.</em>
+  <em>Automated real-time in-game stock tracking for Discord.</em>
 </p>
 
 ---
