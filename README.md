@@ -15,7 +15,7 @@
 
 ## What it does
 
-This project automatically gathers live in-game market stock and inventory data for games like gag, pvb, and gag 2 directly from Traderie. It processes this data and displays it on an automated, rich Discord embed dashboard with real-time price tracking and role ping notifications.
+This project automatically gathers live in-game stock data for games like gag, pvb, and gag 2 directly from Traderie. It processes this data and displays it on an automated, rich Discord embed dashboard with role ping notifications.
 
 ## Requirements
 
